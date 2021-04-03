@@ -5,3 +5,5 @@ Identify the cell types for single-cell RNA-seq. Cell type-specific markers list
 p-value is calculated using chi-sq test
 
 Result is represented as heatmap
+
+![](heatmap_results.png)
